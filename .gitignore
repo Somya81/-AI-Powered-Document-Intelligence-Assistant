@@ -1,0 +1,9 @@
+venv/
+.venv/
+.env
+.sf/
+__pycache__/
+*.pyc
+.pytest_cache/
+documents/
+.DS_Store
